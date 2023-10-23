@@ -42,6 +42,6 @@ in terms of the front end, there are many features:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 project contributers and roles:
-me - designed all code. Had input on gameplay choices and some art.
-Evan Rabinovich - helped with solving coding problems functionally (problem solving together with graph paper) and designed game logic and functionality. Oversaw my code to make sure gameplay was as intended.
-Alan (not sure of last name) - designed almost all art and assetts
+1. me - designed all code. Had input on gameplay choices and some art.
+2. Evan Rabinovich - helped with solving coding problems functionally (problem solving together with graph paper) and designed game logic and functionality. Oversaw my code to make sure gameplay was as intended.
+3. Alan (not sure of last name) - designed almost all art and assetts
