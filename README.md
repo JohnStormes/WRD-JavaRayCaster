@@ -17,8 +17,8 @@ this project was designed to have a lot of functionality and useful features. Fo
 in terms of the front end, there are many features:
 1. there are multiple screens, including a loading screen, game screen, paused screen, death screen, and win screen. Switching between them is intuitive and occurs during gameplay
 2. while in game, there is:
-      a health bar
-      numbers representing the current selected weapon
+      1. a health bar
+      2. numbers representing the current selected weapon
       current clips ammo, along with backup ammo
       your players current score
       the current round
