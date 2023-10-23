@@ -16,7 +16,9 @@ this project was designed to have a lot of functionality and useful features. Fo
 1. The code is designed to handle a map file, taking in any large array of numbers seperated by spaces in a txt file and reading it into the game. There are some limitations, the map must be of rectangular shape (one row of numbers cannot have more numbers than another row), and all numbers must correspond to texture      images stored in the TextureManager class. These textured images can be changed, and any amount can be added or removed, so long as the array is resized in the code properly.
 2. Any images can be changed in the game, by manually changing their path files in the code. This means the wall images can be changed, entity images and animations, and so on. I would not recommend changing animated images though because the code is so poorly structured that changing the number of images in an            animation would require changing up to 5 or 6 other random variables.
 3. Sounds can also be directly modified by changing the paths and array locations of the sound files in the "Sound" java file.
+
 in terms of the front end, there are many features:
+
 1. there are multiple screens, including a loading screen, game screen, paused screen, death screen, and win screen. Switching between them is intuitive and occurs during gameplay
 2. while in game, there is:
       1. a health bar
