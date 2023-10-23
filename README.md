@@ -19,23 +19,23 @@ in terms of the front end, there are many features:
 2. while in game, there is:
       1. a health bar
       2. numbers representing the current selected weapon
-      current clips ammo, along with backup ammo
-      your players current score
-      the current round
-      the number of enemies left in the round
+      3. current clips ammo, along with backup ammo
+      4. your players current score
+      5. the current round
+      6. the number of enemies left in the round
 3. there are doors that must be opened to progress in the game, and can only be opened after completing progressively difficult rounds. These doors lead to seperate "rooms" where new enemies spawn
 4. animated enimies with death animations, running animations, and hit animations
 5. multiple weapons, picked up progressively throughout play
 6. hearts that can be picked up to regenerate health
 7. boss fight!!!!
-      the boss is "William Robinson", based off of the name of the boss assett when downloaded online (William Robinson is the artist)
-           ^^the only assett in the game is the boss, an animated monster designed by William Robinson, who can be found here: https://www.artstation.com/williamrobinson/albums/all
-      the boss spawns enemies periodically
-      boss shoots slime at the player periodically
-      Killing the boss requires a sequence of dealing damage and unlocking his next health bar by picking up health orbs
-      the boss room contains 3 regen hears, and one final weapon, the zap
-      zaps kill all enemies within a certain radius when used, they have a relatively long cooldown, and introduce an awesome animation of lightning striking each enemy
-      once killed, the boss dies along with all enemies and the win screen is presented!
+      1. the boss is "William Robinson", based off of the name of the boss assett when downloaded online (William Robinson is the artist)
+           1. ^^the only assett in the game is the boss, an animated monster designed by William Robinson, who can be found here: https://www.artstation.com/williamrobinson/albums/all
+      2. the boss spawns enemies periodically
+      3. boss shoots slime at the player periodically
+      4. Killing the boss requires a sequence of dealing damage and unlocking his next health bar by picking up health orbs
+      5. the boss room contains 3 regen hears, and one final weapon, the zap
+      6. zaps kill all enemies within a certain radius when used, they have a relatively long cooldown, and introduce an awesome animation of lightning striking each enemy
+         once killed, the boss dies along with all enemies and the win screen is presented!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
