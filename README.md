@@ -5,10 +5,10 @@ Welcome to the raycaster project, William Robinson's Dungeon Escape (or WRD for 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To run the game:
-download the files as a zip and extract all
-open eclipse IDE
-go to File -> Open Projects From File System -> Directories -> WRD
-in the Main package, select the Main.java file and run
+1. download the files as a zip and extract all
+2. open eclipse IDE
+3. go to File -> Open Projects From File System -> Directories -> WRD
+4. in the Main package, select the Main.java file and run
 
 NOTE: screen size may effect mouse usage and compatibility, you may experience a glitch with the mouse moving off of the screen.
 
