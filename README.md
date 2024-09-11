@@ -4,6 +4,16 @@ Welcome to the raycaster project, William Robinson's Dungeon Escape (or WRD for 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+To run the game:
+download the files as a zip and extract all
+open eclipse IDE
+go to File -> Open Projects From File System -> Directories -> WRD
+in the Main package, select the Main.java file and run
+
+NOTE: screen size may effect mouse usage and compatibility, you may experience a glitch with the mouse moving off of the screen.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 project background info:
 
 This was a project designed to explore the basics of the implementations of 3-dimensions in code. From learning how to use Java's built-in UI system, to solving linear algebra problems, to recursive algorithms, this project was a massive learning experience. The code is quite complex and involved. Unfortunately, the code is also suboptimal and somewhat poorly written. It was written by myself, along with conceptual help from my good friend Evan Rabinovich, when neither of us was extremely experienced. The extent of our programming knowledge was what was taught to us in AP Computer Science A, and whatever random things we had learned on the internet. Because of this, many techniques were used that were NOT good and are recognizably wrong and inefficient. Some mistakes include having almost no variable privacy (to avoid mutators and accessors, a fault of laziness), poor variable naming, extremely poor memory usage and tracking, overuse of tracking variables, and countless other small things. Many of these mistakes stemmed from running on a "first solution basis", using only the first solution we found to solve problems and nothing more. We also were on a time constraint and tried focussing less on optimization and readable code, and more on having a cool game to show the class at the end of the school year. While the project is somewhat polished in its front end, its back end is rough and needs work.
