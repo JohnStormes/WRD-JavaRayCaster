@@ -6,7 +6,7 @@ Welcome to the raycaster project, William Robinson's Dungeon Escape (or WRD for 
 
 To run the game:
 1. download the files as a zip and extract all
-2. open eclipse IDE
+2. open Eclipse IDE
 3. go to File -> Open Projects From File System -> Directories -> WRD
 4. in the Main package, select the Main.java file and run
 
@@ -31,25 +31,25 @@ In terms of the front end, there are many features:
 
 1. There are multiple screens, including a loading screen, game screen, paused screen, death screen, and win screen. Switching between them is intuitive and occurs during gameplay
 2. While in-game:
-      a. a health bar
-      b. numbers representing the currently selected weapon
-      c. current clips ammo, along with backup ammo
-      d. your player's current score
-      e. the current round
-      f. the number of enemies left in the round
+      - a health bar
+      - numbers representing the currently selected weapon
+      - current clips ammo, along with backup ammo
+      - your player's current score
+      - the current round
+      - the number of enemies left in the round
 3. Doors must be opened to progress in the game, and can only be opened after completing progressively difficult rounds. These doors lead to separate "rooms" where new enemies spawn
 4. Wnimated enemies with death animations, running animations, and hit animations
 5. Multiple weapons, picked up progressively throughout gameplay
 6. Hearts that can be picked up to regenerate health
 7. Boss fight!!!!
-      a. The boss is "William Robinson", based on the name of the boss asset when downloaded online (William Robinson is the artist)
+      - The boss is "William Robinson", based on the name of the boss asset when downloaded online (William Robinson is the artist)
            1. ^^ The only asset in the game is the boss, an animated monster designed by William Robinson, who can be found here: https://www.artstation.com/williamrobinson/albums/all
-      b. The boss spawns enemies periodically
-      c. The boss shoots slime at the player periodically
-      d. Killing the boss requires a sequence of dealing damage and unlocking his next health bar by picking up health orbs
-      e. The boss room contains 3 regen hears, and one final weapon, the zap
-      f. Zaps kill all enemies within a certain radius when used, they have a relatively long cooldown, and introduce an awesome animation of lightning striking each enemy
-      g. Once killed, the boss and all spawned enemies die in a grand animation, and the win screen is presented!
+      - The boss spawns enemies periodically
+      - The boss shoots slime at the player periodically
+      - Killing the boss requires a sequence of dealing damage and unlocking his next health bar by picking up health orbs
+      - The boss room contains 3 regen hears, and one final weapon, the zap
+      - Zaps kill all enemies within a certain radius when used, they have a relatively long cooldown, and introduce an awesome animation of lightning striking each enemy
+      - Once killed, the boss and all spawned enemies die in a grand animation, and the win screen is presented!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
