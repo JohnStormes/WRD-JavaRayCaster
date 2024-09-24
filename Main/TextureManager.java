@@ -11,7 +11,7 @@ public class TextureManager{
 	}
 	
 	public void loadTextures(){
-		textures[0] = new Texture(mp, "/src/textureImages/test_wall.png");
+		textures[0] = new Texture(mp, "/src/textureImages/WALL-2.png");
 		textures[1] = new Texture(mp, "/src/textureImages/WALL_3.png");
 		textures[2] = new Texture(mp, "/src/textureImages/WALL_4.png");
 		textures[3] = new Texture(mp, "/src/textureImages/door1.png");
